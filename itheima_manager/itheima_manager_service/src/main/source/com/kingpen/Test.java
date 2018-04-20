@@ -10,7 +10,6 @@ public class Test {
     
     public void outPut(){
         System.out.println("张三输出语句");
-        System.out.println("李四输出语句");
         System.out.println("张三输出第二条语句");
     }
 }
